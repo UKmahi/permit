@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/Users/Amarjeet Kumar/Desktop/ut/Fulladder/FULLAdder_isim_beh.exe" -prj "C:/Users/Amarjeet Kumar/Desktop/ut/Fulladder/FULLAdder_beh.prj" "work.FULLAdder" 

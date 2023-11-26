@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/Users/Amarjeet Kumar/Desktop/ut/DEMUX1x8/DEMUX1x8_isim_beh.exe" -prj "C:/Users/Amarjeet Kumar/Desktop/ut/DEMUX1x8/DEMUX1x8_beh.prj" "work.DEMUX1x8" 

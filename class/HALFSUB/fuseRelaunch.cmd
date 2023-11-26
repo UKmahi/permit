@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/Users/Amarjeet Kumar/Desktop/ut/HALFSUB/HALFSUB_isim_beh.exe" -prj "C:/Users/Amarjeet Kumar/Desktop/ut/HALFSUB/HALFSUB_beh.prj" "work.HALFSUB" 

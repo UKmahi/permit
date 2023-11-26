@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/Users/Amarjeet Kumar/Desktop/ut/XNORGate/XNORGate_isim_beh.exe" -prj "C:/Users/Amarjeet Kumar/Desktop/ut/XNORGate/XNORGate_beh.prj" "work.XNORGate" 

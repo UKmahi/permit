@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/Users/Amarjeet Kumar/Desktop/ut/andgate/ANDGate_isim_beh.exe" -prj "C:/Users/Amarjeet Kumar/Desktop/ut/andgate/ANDGate_beh.prj" "work.ANDGate" 

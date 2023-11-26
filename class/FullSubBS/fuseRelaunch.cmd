@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/Users/Amarjeet Kumar/Desktop/ut/FullSubBS/FullSubBS_isim_beh.exe" -prj "C:/Users/Amarjeet Kumar/Desktop/ut/FullSubBS/FullSubBS_beh.prj" "work.FullSubBS" 
