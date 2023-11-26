@@ -1,3 +1,0 @@
-vhdtdtfi -lib work {C:/Users/Amarjeet Kumar/Desktop/ut/Ifull_adder/full_adder.v} -lang verilog -prj Ifull_adder -o .spl -module {} -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
-vhdtdtfi -lib work {C:/Users/Amarjeet Kumar/Desktop/ut/Ifull_adder/full_adder.v} -lang verilog -prj Ifull_adder -o .spl -module {} -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
-vhdtdtfi -lib work {C:/Users/Amarjeet Kumar/Desktop/ut/Ifull_adder/full_adder.v} -lang verilog -prj Ifull_adder -o .spl -module {} -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
