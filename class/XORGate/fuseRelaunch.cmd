@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Amarjeet Kumar/Desktop/ut/XORGate/XORGate_isim_beh.exe" -prj "C:/Users/Amarjeet Kumar/Desktop/ut/XORGate/XORGate_beh.prj" "work.XORGate" 

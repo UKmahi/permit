@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Amarjeet Kumar/Desktop/ut/Halfsubtractor1/HALFSubtractor_isim_beh.exe" -prj "C:/Users/Amarjeet Kumar/Desktop/ut/Halfsubtractor1/HALFSubtractor_beh.prj" "work.HALFSubtractor" 

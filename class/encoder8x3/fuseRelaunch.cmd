@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Amarjeet Kumar/Desktop/ut/encoder8x3/encoder8x3_isim_beh.exe" -prj "C:/Users/Amarjeet Kumar/Desktop/ut/encoder8x3/encoder8x3_beh.prj" "work.encoder8x3" 

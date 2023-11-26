@@ -1,0 +1,28 @@
+Command line:
+   NANDGate_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57046
+
+Tue Apr 26 16:08:24 2022
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5154.78 Meg
+
+ Total Signals          : 3
+ Total Nets             : 3
+ Total Signal Drivers   : 1
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 1
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 363
+
+ Total Simulation Time: 0.078125 sec
+
+ Current Memory Usage: 5469.35 Meg
+
+Tue Apr 26 16:09:12 2022
+

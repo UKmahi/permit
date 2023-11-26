@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Amarjeet Kumar/Desktop/ut/Tflipflop/Tflipflop_isim_beh.exe" -prj "C:/Users/Amarjeet Kumar/Desktop/ut/Tflipflop/Tflipflop_beh.prj" "work.Tflipflop" 

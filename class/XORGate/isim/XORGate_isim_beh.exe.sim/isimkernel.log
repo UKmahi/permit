@@ -1,0 +1,28 @@
+Command line:
+   XORGate_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57063
+
+Tue Apr 26 16:09:51 2022
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 5154.81 Meg
+
+ Total Signals          : 3
+ Total Nets             : 3
+ Total Signal Drivers   : 1
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 1
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 363
+
+ Total Simulation Time: 0.15625 sec
+
+ Current Memory Usage: 5469.38 Meg
+
+Tue Apr 26 16:10:36 2022
+
